@@ -136,14 +136,7 @@ def visualize_data(data):
 
 ---
 
-This code snippet performs the following main functionality:
-
-- It generates random data using the `generate_random_data()` function.
-- It then saves the generated data to a file using the `save_data_to_file()` function.
-- It loads the data from the file using the `load_data_from_file()` function.
-- It calculates statistics on the loaded data using the `calculate_statistics()` function.
-- It prints the calculated statistics using the `print()` function.
-- It visualizes the loaded data using the `visualize_data()` function.
+This code snippet executes a sequence of operations related to data processing and visualization. It generates random data, saves it to a file, loads the data from the file, calculates statistics on the loaded data, and finally visualizes the loaded data. The statistics are then printed to the console.
 
 ```python
 if __name__ == "__main__":
@@ -158,7 +151,5 @@ if __name__ == "__main__":
 ---
 
 </SwmSnippet>
-
-/
 
 <SwmMeta version="3.0.0" repo-id="Z2l0aHViJTNBJTNBY2hhdC1jb21wbGV0aW9uJTNBJTNBcmFlZEVpZDk5OTU=" repo-name="chat-completion"><sup>Powered by [Swimm](https://app.swimm.io/)</sup></SwmMeta>
