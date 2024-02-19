@@ -98,7 +98,7 @@ def calculate_statistics(data):
     stats = {
         'mean': np.mean(data),
         'median': np.median(data),
-        'std_dev': np.std(data)
+        
     }
     return stats
 ```
